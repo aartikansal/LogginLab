@@ -7,11 +7,11 @@ public class LogginLabTest {
     private final static Logger logger = Logger.getLogger(LogginLab.class.getName());
 
     @org.junit.Before
-    public void setUp() throws Exception {
+    public void setUp() {
     }
 
     @org.junit.After
-    public void tearDown() throws Exception {
+    public void tearDown() {
     }
 
     @org.junit.Test
