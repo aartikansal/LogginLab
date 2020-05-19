@@ -20,10 +20,6 @@ public class LogginLab {
 
     }
 
-    public Integer getThreshold() {
-        return threshold;
-    }
-
     public void setThreshold(Integer threshold) {
         this.threshold = threshold;
     }
